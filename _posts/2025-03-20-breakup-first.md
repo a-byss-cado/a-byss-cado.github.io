@@ -6,4 +6,4 @@ permalink: /hidden_testlog/
 draft: true
 ---
 
-{% include_relative [cocolog2][BREAK UP 1부] Crystal Heart[main].html %}
+{% include_relative breakup-first.html %}
